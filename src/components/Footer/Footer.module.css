@@ -1,0 +1,10 @@
+.container {
+    width: 100vw;
+    height: auto;
+    background-color: yellow;
+}
+
+.heading {
+    margin: auto;
+    text-align: center;
+}

@@ -1,3 +1,5 @@
-import Home from "./Home/Home"; 
+import Home from "./Home/Home";
+import Clubs from "./Clubs/Clubs";
+import Scholarships from "./Scholarships/Scholarships";
 
-export {Home};
+export {Home, Clubs, Scholarships};

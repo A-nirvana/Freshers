@@ -4,7 +4,9 @@
 
 }
 :root {
+  height: 100%;
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   color-scheme: light dark;
+  background-image: linear-gradient(to top right, #1e3d5a, #344f6b);
 }
 
